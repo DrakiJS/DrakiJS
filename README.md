@@ -1,18 +1,36 @@
-## Hello 👋
+# Hi, I'm Draki 👋
 
+I'm an 18-year-old French **Developer** passionate about web development and learning new programming languages. I enjoy working on open-source projects and am always eager to tackle new challenges and improve my skills.
 
-👨‍💻  Developer | 🚀 
+## 🚀 Languages I Master & Learning
 
-## 🚀 Technologies & Tools
-- 🌐 Learning JavaScript , Tauri ; Rust  
-- 🐍 Learning C# and C++
+### 💪 Languages I Master:
+- **HTML** - Proficient in creating structured web pages with HTML5.
+- **CSS** - Skilled in building responsive designs with CSS3, Flexbox, and Grid.
+- **C#** - Experience with backend development using C# and .NET.
 
+### 📚 Languages I'm Learning:
+- **JavaScript** - Further improving my skills in JavaScript for both frontend and backend development.
+- **Tauri/Rust** - Exploring system programming with Rust to learn memory safety and performance.
+- **C++** - Learning C++ to dive into high-performance application development.
 
 ## 📈 GitHub Stats
+![DrakiJS GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrakiJS&show_icons=true&hide_title=true&hide=prs&count_private=true)
 
+## 📣 Contact
 
-## 📣 Contact Me
-- Email: [drakiogfn@gmail.com](mailto:drakiogfn@gmail.com)
-- Discord: draki__ 
+- 📧 **Email**: [drakiogfn@gmail.com](mailto:drakiastralogfn@gmail.com)
+- 💬 **Discord**: [draki__](https://discord.com/users/draki__)
+
+---
+
+## 📚 Notable Projects
+
+### Soon 
+
+---
+
+### 🚀 Follow My Progress!
+I’m constantly learning new technologies, so feel free to follow my work and contribute to my projects.
 
 
