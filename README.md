@@ -7,11 +7,10 @@ I'm an 18-year-old French **Developer** passionate about web development and lea
 ### 💪 Languages I Master:
 - **HTML** - Proficient in creating structured web pages with HTML5.
 - **CSS** - Skilled in building responsive designs with CSS3, Flexbox, and Grid.
-- **C#** - Experience with backend development using C# and .NET.
+
 
 ### 📚 Languages I'm Learning:
 - **JavaScript** - Further improving my skills in JavaScript for both frontend and backend development.
-- **Tauri/Rust** - Exploring system programming with Rust to learn memory safety and performance.
 - **C++** - Learning C++ to dive into high-performance application development.
 
 ## 📈 GitHub Stats
