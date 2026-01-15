@@ -1,6 +1,6 @@
 # Hi, I'm Draki 👋
 
-I'm an 18-year-old French **Developer** passionate about web development and learning new programming languages. I enjoy working on open-source projects and am always eager to tackle new challenges and improve my skills.
+I'm an 19-year-old French **Developer** passionate about web development and learning new programming languages. I enjoy working on open-source projects and am always eager to tackle new challenges and improve my skills.
 
 ## 🚀 Languages I Master & Learning
 
