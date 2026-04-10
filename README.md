@@ -19,7 +19,6 @@ I'm an 19-year-old French **Developer** passionate about web development and lea
 
 ### Soon  
 
-## I Will open source old astral backend in node.js and some stuff like electron launcheur ( electron a framework of javascript to make apps )  and maybe old GameServer edited with very good stuff in it 
 
 ---
 
