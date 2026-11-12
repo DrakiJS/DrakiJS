@@ -1,7 +1,8 @@
 # Hi, I'm Draki 👋
 
-I'm an 20-year-old French **Developer** passionate about web development and learning new programming languages. I enjoy working on open-source projects and am always eager to tackle new challenges and improve my skills.
+I'm an 20-year-old French **Developer** passionate about web development and learning new programming languages. I enjoy working on open-source projects and am always eager to tackle new challenges and improve my skills. 
 
+Currently i learn how to reverse engineering a process ( most of the time it's for finding stuff in Fortnite Files ) 
 
 
 
